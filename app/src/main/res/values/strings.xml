@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Выбор даты и времени</string>
+    <string name="button_change_time">Изменить время</string>
+    <string name="button_change_date">Изменить дату</string>
+</resources>
